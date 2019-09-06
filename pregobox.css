@@ -1,0 +1,52 @@
+
+        
+        #carouselwide {
+            position: absolute;
+            width: 100%;
+        }
+        #picbar {
+            z-index: 3;
+            
+        }
+        .card-deck {
+            padding-top: 2%;
+            margin-top: 30%;
+        }
+        .card:hover {
+            transform: scale(1.09);
+        }
+        .card h4:hover {
+           transform: scale(1.15); 
+        }
+        .sbutton:hover {
+            background-color: aqua;
+            border: 10px solid rgb(201, 247, 193);
+        }
+        .card-title {
+            background-color: rgb(201, 247, 193);
+            text-align: center;
+        }
+        #subscribe {
+            background-color: rgb(201, 247, 193);
+            text-align: center;
+            padding-top: 2%;
+            z-index: 3; 
+        }
+    @media screen and (max-width: 500px) {
+            #asseen {
+                display: none;
+            }
+        }
+        body {
+            background-color: rgb(255, 232, 230);
+        }
+
+        #asseen {
+
+        }
+
+        #pink {
+            rgb(255, 232, 230);
+        }
+
+       

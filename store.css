@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(124, 191, 36, .3);
+}
+
+header {
+    border-top: 5px solid rgb(84, 232, 222);
+}
+
+#header {
+    background-color: rgb(192, 202, 237);
+}
+
+#header p {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+ .img-thumbnail:hover {
+            transform: scale(1.6);
+        }
+        
+        
+.img-thumbnail{
+    width: 20%;
+    height: 20%;
+}   
+        
+.image1:hover ~ .imagesToFadeIn img {
+    opacity: 1;
+}
+
+.imagesToFadeIn img {
+    opacity: 0;
+    transition: all .1s ease-in;
+    z-index: 3;
+    
+}
+
+.imagesToFadeIn img:nth-child(2) {
+    transition-delay: .1s;
+}
+
+.imagesToFadeIn img:nth-child(3) {
+    transition-delay: .2s;
+}
+
+.imagesToFadeIn img:nth-child(4) {
+    transition-delay: .3s;
+}
+
+.imagesToFadeIn img:nth-child(5) {
+    transition-delay: .4s;
+}
+        
+        
+        .container {
+            display: inline-block;
+            display: flex;
+            justify-content: flex-start;
+        }
+
+
+.gallery img {
+    padding-bottom: 30px;
+}
+

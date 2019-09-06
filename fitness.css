@@ -1,0 +1,32 @@
+iframe {
+    margin-top: 5%;
+    margin-left: 28%;
+}
+    
+
+.card {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 { 
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+}
+
+body {
+    background-color: rgba(124, 191, 36, .3);
+}
+
+.card {
+    border: 5px solid rgb("192, 202, 237");
+}
+
+rotateimg180 {
+    -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }

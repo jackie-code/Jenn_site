@@ -1,0 +1,161 @@
+#mission {
+
+    text-align: center;
+    margin: 5% 10% 0 10%;
+    background-image:
+}
+
+#vision {
+    text-align: center;
+    margin: 0 10% 0 10%;
+}
+
+#plan {
+    margin: 0 10% 0 10%;
+    text-align: left;
+}
+
+#plan h3 {
+    text-align: center;
+}
+
+#carouselExampleSlidesOnly {
+    height: 300px;
+
+}
+
+#carouselwide {
+    height: 300px;
+    width: auto;
+    overflow-y: hidden;
+}
+
+.carousel-caption d-none d-md-block {
+    top: 0;
+}
+
+#qqq {
+    background-image: url("capstone_images/linen-flax-canvas-roll-12oz-183cm-wide.jpg");
+    border-top: 5px solid rgb(169, 182, 232);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: "Bradley Hand", cursive;
+}
+
+#qqq h1 {
+    font-family: "Bradley Hand", cursive;
+    text-shadow: 1px 1px 5px rgba(22, 219, 216, .5);
+}
+
+#quoteDisplay {
+    background-color: darkgray;
+    width: 60%;
+    border: 3px solid white;
+    padding: 0.5em;
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.fadeIn {
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+
+.sparkley {
+    background: #3e5871;
+    color: white;
+    border: none;
+    padding: 16px 36px;
+    font-weight: normal;
+    border-radius: 3px;
+    transition: all 0.25s ease;
+    box-shadow: 0 38px 32px -23px black;
+    margin: 0 1em 1em;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+footer li:hover {
+    transform: scale(1.3);
+}
+
+
+/* code for the quote display to fade in */
+
+/*==== FADE IN UP ===*/
+/* @-webkit-keyframes fadeInUp {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none;
+    }
+  }
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none;
+    }
+  }
+  
+  .fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+  } */
+
+
+
+
+
+
+/* .card {
+    padding-left:
+} */
+
+body {
+    background-color: rgba(124, 191, 36, .3);
+}
+
+button {
+    font-family: "Bradley Hand", cursive;
+    border: 3px solid white;
+    margin-top: 3%;
+}
