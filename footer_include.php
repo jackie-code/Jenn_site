@@ -1,14 +1,11 @@
 <style>
     #footer {
-        
-        width: initial;
-        background-image: url('positive-image/shoreline.png');
+        width: 100%;
+        background-image: url('capstone_images/colorgrrr.png');
         background-repeat: no-repeat;
         max-width: initial;
         max-height: initial;
         padding: 125px;
-        background-size: contain;
-        background-position: center;
         z-index: 3;
     }
     #footer ul {

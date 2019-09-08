@@ -473,7 +473,7 @@ It has already almost been a year since we moved from beloved Kauai.  Looking ba
 
     <?php
 include "footer_include.php" 
-?>
+?> 
 
 
 </section>
@@ -485,7 +485,10 @@ include "footer_include.php"
 
 
 
-<section class="spacer"></section>
+
+
+
+
 
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
