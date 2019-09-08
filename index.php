@@ -469,7 +469,20 @@ It has already almost been a year since we moved from beloved Kauai.  Looking ba
         </ul>
     </div>
 
+
+
+    <?php
+include "footer_include.php" 
+?>
+
+
 </section>
+
+
+
+
+
+
 
 
 <section class="spacer"></section>

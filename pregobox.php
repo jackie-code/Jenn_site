@@ -111,5 +111,9 @@ include"headinclude.php" ?>
 </div>  
 
 </div>
+<?php
+include "footer_include.php" 
+?>
 
+</body>
 <?php include "jsincludes.php" ?>

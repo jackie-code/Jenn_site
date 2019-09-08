@@ -162,6 +162,11 @@ include"headinclude.php" ?>
 
     </div>
 
+
+    <?php
+include "footer_include.php" 
+?>
+
    </body>
 </html>
 

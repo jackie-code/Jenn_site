@@ -143,26 +143,12 @@ include "headinclude.php" ?>
     </div>
 
 
-    <footer>
-        <div>
-        <ul>
-            <li>
-                <p>
-                    &copy; Little Pine Co. 2019
-                </p>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/_.jenn._.martin._/"><img src="capstone_images/insta.png" alt="instagram"></a>
-            </li>
-            <li>
-                <a href="mailto:someone@example.com"><img src="capstone_images/mail.png" alt="email"></a>
-            </li>
-            <li>
-                <a href="https://www.twitter.com"><img src="capstone_images/twitter.png" alt="twitter"></a>
-            </li>
-        </ul>
-</div>
-    </footer>
+
+    <?php
+include "footer_include.php" 
+?>
+
+    
 
 
     <!-- just want to write out the js here instead of php because of including the positivity.js above -->

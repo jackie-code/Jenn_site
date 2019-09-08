@@ -96,7 +96,9 @@ include"headinclude.php" ?>
 
 
 
-
+    <?php
+include "footer_include.php" 
+?>
 
 
 

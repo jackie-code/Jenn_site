@@ -13,7 +13,7 @@ include "dbconnect.php";
      <header>
          <div id="header">
              <h1>Intricately Designed</h1>
-             <p>Forget those crazy-eyed, crooked-nosed, unsymmetrical stuffed animal at your local Target. We have way better ones.</p>
+             <p>Forget those crazy-eyed, crooked-nosed, unsymmetrical stuffed animals at your local Target. We have way better ones.</p>
 </div>
 </header>
 
@@ -79,7 +79,9 @@ include "dbconnect.php";
     </div>
 </div>
 
-
+<?php
+include "footer_include.php" 
+?>
 
     </body>
 
