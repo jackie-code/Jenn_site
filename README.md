@@ -13,4 +13,4 @@ This was a final project I did for the code school I went to. We had the option 
 8. All sorts of fun and beautiful images
 
 ### Link to site
-Go to site] (http://pbcs.us/~jmartin/capstone_redone/demo/)
+[Go to site](http://pbcs.us/~jmartin/capstone_redone/demo/)
