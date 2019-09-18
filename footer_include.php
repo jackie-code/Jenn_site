@@ -19,7 +19,7 @@
 </style>
 
 
-<footer id="footer">
+<footer class="img-fluid" id="footer">
 
     <div>
         <ul>
